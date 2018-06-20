@@ -1,27 +1,17 @@
 body{
-    margin-top: 20px;
-   /* display: flex;
+    margin-top: 40px;
+    display: flex;
     height: 100vh;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-around;
-    background-color: lightgray;*/
+    background-color: lightgray; 
 }
 
 .quadradinho{
     height: 200px;
     width: 200px;
     border: 5px dashed black;
-    margin: 50px;
-}
 
-.primeiro{
-    display: flex;
-    justify-content: center;
-}
-
-.segundo{
-    display: flex;
-    justify-content: center;
 }
 
 h1{
